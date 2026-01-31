@@ -14,6 +14,11 @@ Helps in crafting professional storytelling and research-backed posts for Linked
 - **Path**: `.agent/skills/writing-linkedin-posts/`
 - **Features**: Scroll-stopping hooks, industry research, and engagement-focused CTAs.
 
+### 📄 Creating Resumes
+Drafts professional, ATS-friendly resumes with a strictly structured hierarchy.
+- **Path**: `.agent/skills/creating-resumes/`
+- **Features**: Personal Details, Summary, Skills, Experience, Education, and Languages.
+
 ## 🔄 Skill Workflow Diagram
 
 ```mermaid
